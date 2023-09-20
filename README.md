@@ -1,5 +1,6 @@
 # Termo_Copycat
 Copycat of a game called "TERMO" (wordle) using C++
+
 In collaboration with *Lucas Rosa Losekann* for a Assigment at University.
 
 
